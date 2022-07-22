@@ -5,7 +5,10 @@ The program takes as its argument a string and return:
 - time of this reverse method for 10,000  repetitions.
 - time of this reverse method for 100,000 repetitions.
 
-The program is already compiled, you just need to open 
-command line, change directory and run the program with argument:
+### Getting started:
 
-{Path}>java Main 'Your input string'
+- open command line and change directory
+- compile the program:
+  {Path}>javac Main.java
+- run the program with argument:
+  {Path}>java Main 'Your input string'

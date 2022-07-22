@@ -1,4 +1,4 @@
-The program takes as its argument a string and return:
+The program takes as its argument a string and returns:
 - input string
 - output string (reverse input string)
 - time of this reverse method for 1,000 repetitions
